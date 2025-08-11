@@ -1,3 +1,4 @@
+# eda-iris
 This project explores the classic Iris dataset with exploratory data analysis and simple classification models.
 
 The notebook (`iris-analysis.ipynb`) contains all code, plots, and results.
